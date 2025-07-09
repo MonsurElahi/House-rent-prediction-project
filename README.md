@@ -108,12 +108,3 @@ predicted_price = model.predict([[area]])
 
 This script uses **Simple Linear Regression**, which assumes a linear relationship between input (area) and output (price). It's trained using the `fit()` method from `sklearn.linear_model.LinearRegression`.
 
----
-
-## 📬 Feedback or Questions?
-
-Feel free to reach out or suggest improvements. This is a beginner-friendly demo for learning how machine learning can be used for real-world regression tasks.
-
----
-
-Let me know if you'd like this as a downloadable file (Markdown, PDF, etc.) or want to include features like plotting or saving the model!
